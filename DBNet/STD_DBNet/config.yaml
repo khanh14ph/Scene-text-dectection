@@ -1,0 +1,55 @@
+meta:
+  root_dir: /home/lab/khanhnd/STD_DBNet
+  round_number: 8
+  debug: False
+  device: cuda
+  test_device: cpu
+
+continue: False
+
+load_path: /home/lab/khanhnd/STD_DBNet/saved_models/result_200_0.0003_advanced_aug/best_hmean_cp.pth
+
+hps:
+  batch_size: 3
+  test_batch_size: 1  # must be set to 1 to evaluate metric
+  img_size: 640
+  no_epochs: 120
+  no_classes: 2
+  log_iter: 10
+  
+result_dir: result_200_0.0003_advanced_aug
+
+data:
+  vietnamese:
+    train_dir: /home/lab/khanhnd/STD_DBNet/dataset/vietnamese/train_images
+    test_dir: /home/lab/khanhnd/STD_DBNet/dataset/vietnamese/test_images
+    train_gt_dir: /home/lab/khanhnd/STD_DBNet/dataset/vietnamese/train_gts
+    test_gt_dir: /home/lab/khanhnd/STD_DBNet/dataset/vietnamese/test_gts
+    valid_dir: /home/lab/khanhnd/STD_DBNet/dataset/vietnamese/valid_images
+    valid_gt_dir: /home/lab/khanhnd/STD_DBNet/dataset/vietnamese/valid_gts
+    
+    ignore_tags: ["###"]
+
+dataset:
+  name: vietnamese
+  return_dict: True
+
+model:
+  finetune_cp_path:
+  best_cp_path: best_cp.pth
+  last_cp_path: last_cp.pth
+  best_hmean_cp_path: best_hmean_cp.pth
+
+optimizer:
+  type: adam
+  lr: 0.0003
+  reduction: mean
+  alpha: 1
+  beta: 10
+  negative_ratio: 3
+
+metric:
+  thred_text_score: 0.25
+  prob_threshold: 0.50
+  unclip_ratio: 1.50
+  is_output_polygon: True

@@ -1,0 +1,10 @@
+shapely
+opencv-python
+tqdm
+torch
+tensorboard
+imageio
+torchvision
+pyclipper
+imgaug
+PyYAML
