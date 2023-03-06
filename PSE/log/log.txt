@@ -1,0 +1,79 @@
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+53.000000	0.001000	0.152853	0.940548	0.897613	
+54.000000	0.001000	0.149336	0.937960	0.896962	
+55.000000	0.001000	0.157827	0.940642	0.899620	
+56.000000	0.001000	0.153093	0.942027	0.900753	
+57.000000	0.001000	0.158406	0.940286	0.896407	
+58.000000	0.001000	0.159226	0.941505	0.900534	
+59.000000	0.001000	0.151233	0.938121	0.897102	
+60.000000	0.001000	0.159630	0.942911	0.902920	
+61.000000	0.001000	0.153614	0.942623	0.901737	
+62.000000	0.001000	0.150623	0.943993	0.903330	
+63.000000	0.001000	0.154155	0.941807	0.900697	
+64.000000	0.001000	0.159224	0.944175	0.903107	
+65.000000	0.001000	0.145532	0.941878	0.902196	
+66.000000	0.001000	0.148151	0.945053	0.904334	
+67.000000	0.001000	0.157796	0.940094	0.899728	
+68.000000	0.001000	0.155805	0.941722	0.899122	
+69.000000	0.001000	0.159428	0.941500	0.897746	
+70.000000	0.001000	0.153671	0.940782	0.901313	
+71.000000	0.001000	0.156177	0.944554	0.903653	
+72.000000	0.001000	0.146821	0.943032	0.903346	
+73.000000	0.001000	0.151686	0.943221	0.902313	
+74.000000	0.001000	0.152361	0.941219	0.901776	
+75.000000	0.001000	0.155045	0.942374	0.901969	
+76.000000	0.001000	0.142905	0.946060	0.906314	
+77.000000	0.001000	0.146631	0.945044	0.905685	
+78.000000	0.001000	0.146589	0.944692	0.905138	
+79.000000	0.001000	0.151818	0.945048	0.906398	
+80.000000	0.001000	0.152094	0.945655	0.904211	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
+Epoch	Learning Rate	Train Loss	Train Acc.	Train IOU.	
